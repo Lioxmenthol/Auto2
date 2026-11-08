@@ -21273,5 +21273,50 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Paquito/1793896378778_633713.jpg",
     "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/releases/download/Pq_Cc_to_Ryu1/PQ.CC.TO.RYU1.zip",
     "sort": "41"
+  },
+  "Floryn-1794121334233-mhmls3": {
+    "hero": "Floryn",
+    "type": "Skin",
+    "skin_name": "Elite to Collector",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Floryn/1794121011526_634056.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Floryn/1794121011526_634056.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Floryn/1794121014716_FLORYN%20ELITE%20TO%20CC.zip",
+    "sort": "5"
+  },
+  "Alucard-1794121334233-ri171d": {
+    "hero": "Alucard",
+    "type": "Skin",
+    "skin_name": "Zangetsu",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Alucard/1794121056261_634059.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Alucard/1794121056261_634059.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Alucard/1794121059000_ALU%20X%20ZANGETSU.zip",
+    "sort": "24"
+  },
+  "Kimmy-1794121334233-indd8b": {
+    "hero": "Kimmy",
+    "type": "Skin",
+    "skin_name": "Starlight to Starwars",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Kimmy/1794121147158_634054.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Kimmy/1794121147158_634054.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Kimmy/1794121151470_KIMMY%20STAR%20TO%20STARWARS.zip",
+    "sort": "7"
+  },
+  "Freya-1794121334233-e75bm4": {
+    "hero": "Freya",
+    "type": "Skin",
+    "skin_name": "Basic to Legend",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Freya/1794121220460_634055.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Freya/1794121220460_634055.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Freya/1794121223813_FREYA%20BASIC%20TO%20LEGEND.zip",
+    "sort": "16"
+  },
+  "Sun-1794121334233-s0ou2n": {
+    "hero": "Sun",
+    "type": "Skin",
+    "skin_name": "Elite to Collector Titans",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Sun/1794121271873_634053.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Sun/1794121271873_634053.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Sun/1794121275051_SUN%20ELITE%20TO%20COLLECTOR%20TITANS.zip",
+    "sort": "10"
   }
 }
