@@ -21336,5 +21336,50 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Clint/1795151085464_638727.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Clint/1795151090818_CLINT%20OPERATOR%20CL.zip",
     "sort": "30"
+  },
+  "Fanny-1795428091154-ujd0a6": {
+    "hero": "Fanny",
+    "type": "Skin",
+    "skin_name": "Lightborn to Valentine",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Fanny/1795427440705_638751.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Fanny/1795427440705_638751.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Fanny/1795427444821_FANNY%20LB%20TO%20VALENTINE.zip",
+    "sort": "16"
+  },
+  "Dyrroth-1795428091154-8nfbg6": {
+    "hero": "Dyrroth",
+    "type": "Skin",
+    "skin_name": "Collector to Gon",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Dyrroth/1795427497122_638748.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Dyrroth/1795427497122_638748.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Dyrroth/1795427500875_DYROTH%20CC%20TO%20GON.zip",
+    "sort": "10"
+  },
+  "Nolan-1795428091154-b7p01l": {
+    "hero": "Nolan",
+    "type": "Skin",
+    "skin_name": "Epic to 11.11",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Nolan/1795427591315_638752.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Nolan/1795427591315_638752.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Nolan/1795427595058_NOLAN%20EPIC%20TO%2011.11.zip",
+    "sort": "4"
+  },
+  "Claude-1795428091154-f6k55u": {
+    "hero": "Claude",
+    "type": "Skin",
+    "skin_name": "Christmas to Prime",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Claude/1795427689760_638750.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Claude/1795427689760_638750.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Claude/1795427692584_CLAUDE%20CHRISTMAS%20TO%20PRIME.zip",
+    "sort": "10"
+  },
+  "Alice-1795428091154-uie79a": {
+    "hero": "Alice",
+    "type": "Skin",
+    "skin_name": "Special to Collector",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Alice/1795427854522_638749.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Alice/1795427854522_638749.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto2/main/uploads/Alice/1795427858488_ALICE%20SPECIAL%20TO%20CC.zip",
+    "sort": "4"
   }
 }
